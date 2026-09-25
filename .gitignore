@@ -1,0 +1,31 @@
+# Original forensic evidence
+00_Original_Evidence/
+*.001
+*.002
+*.003
+*.004
+*.005
+*.006
+*.007
+*.008
+
+# Autopsy case/database
+02_Autopsy_Case/
+*.db
+*.sqlite
+*.sqlite3
+
+# Registry hive working copies
+01_Working_Files/02_Registry_Hives/
+
+# Temporary/intermediate analysis files
+01_Working_Files/03_Analysis_Staging/
+*.tmp
+*.log
+
+# OS / editor metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
