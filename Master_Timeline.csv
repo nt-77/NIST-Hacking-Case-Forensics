@@ -1,0 +1,28 @@
+﻿Recovered Date/Time (PKT),Artifact,Event / Evidence,Interpretation / Significance,Notes
+2004-08-20 15:33:11,Internet Explorer History,MSN search for 'hacking',Shows a search query containing the term 'hacking'.,Browser timestamp as recovered; do not equate search with later execution.
+2004-08-20 20:05:52,Prefetch / Run Programs,CAIN25B45.EXE,Prefetch evidence indicates the executable was executed; count 1.,Separate timestamp stream from browser history.
+2004-08-20 20:10:47,Prefetch / Run Programs,WHOIS.EXE,Prefetch evidence indicates execution; count 1.,Separate timestamp stream from browser history.
+2004-08-20 20:12:54,Prefetch / Run Programs,123WASP_SETUP.EXE,Prefetch evidence indicates execution/launch of the installer executable; count 1.,Installed-program context should be correlated separately.
+2004-08-20 20:19:42,NTFS / NetBus.rtf,NetBus.rtf file record created on the examined system,The document was present in the NetBus folder and was created/recorded on the system at this time.,Embedded document metadata dates to 1998; do not treat that as the filesystem creation date.
+2004-08-25 15:49:42,Internet Explorer History,MajorGeeks download page for Look@LAN,Browser history shows navigation to the Look@LAN download page.,Browser timestamp as recovered.
+2004-08-25 15:50:14,Internet Explorer History,MajorGeeks direct download for Look@LAN installer,Browser history records the installer download URL.,Browser timestamp as recovered.
+2004-08-25 15:51:24,Internet Explorer History,FTP URL for lalsetup250.exe,Browser history records an FTP location for the Look@LAN installer.,Browser timestamp as recovered.
+2004-08-25 16:07:51,Internet Explorer History,Google search: 'what is my ip',Shows a search for the system's public IP address.,Browser timestamp as recovered; purpose not established.
+2004-08-25 20:56:33,Prefetch / Run Programs,LOOKATHOST.EXE,Prefetch evidence indicates execution; count 1.,Separate timestamp stream from browser history.
+2004-08-25 21:20:34,Prefetch / Run Programs,MIRC.EXE,Prefetch evidence indicates execution; count 3.,Separate timestamp stream from browser history.
+2004-08-26 15:08:12,Internet Explorer History,file://4.12.220.254/Temp/yng13.bmp,Browser history references a file on remote host 4.12.220.254.,Same host/file appears in Recent Documents; purpose not established.
+2004-08-26 20:05:15,Prefetch / Run Programs,TELNET.EXE,Prefetch evidence indicates execution; count 1.,Separate timestamp stream from browser history.
+2004-08-26 20:06:14,Prefetch / Run Programs,LOOKATLAN.EXE,Prefetch evidence indicates execution; count 2.,Separate timestamp stream from browser history.
+2004-08-26 20:13:57,Prefetch / Run Programs,WHOIS.EXE,Prefetch evidence indicates execution; count 2.,Separate timestamp stream from browser history.
+2004-08-27 15:09:27,Internet Explorer History,Wardriving.com setup page,Browser history records access to a wardriving setup page under the Mr. Evil profile.,Browser timestamp as recovered.
+2004-08-27 15:10:00,Internet Explorer History,NetStumbler downloads page,Browser history records access to NetStumbler downloads.,Browser timestamp as recovered.
+2004-08-27 15:11:07,Internet Explorer History,NetStumbler installer download URL,Browser history records the NetStumbler installer URL.,Browser timestamp as recovered.
+2004-08-27 15:11:33,Internet Explorer History,WinPcap download URL,Browser history records a WinPcap download URL.,Browser timestamp as recovered.
+2004-08-27 15:11:49,Internet Explorer History,Ethereal installer download URL,Browser history records an Ethereal installer URL.,Browser timestamp as recovered.
+2004-08-27 15:12:35,Prefetch / Run Programs,NETSTUMBLER.EXE,Prefetch evidence indicates execution; count 1.,Separate timestamp stream from browser history.
+2004-08-27 20:15:08,Prefetch / Run Programs,WINPCAP_3_01_A.EXE,Prefetch evidence indicates execution of the WinPcap installer.,Separate timestamp stream from browser history.
+2004-08-27 20:15:17,Prefetch / Run Programs,NPF_MGM.EXE,Prefetch evidence indicates execution; count 2.,WinPcap-related executable.
+2004-08-27 20:15:18,Prefetch / Run Programs,DAEMON_MGM.EXE,Prefetch evidence indicates execution; count 3.,WinPcap-related executable.
+2004-08-27 20:28:36,Prefetch / Run Programs,ETHEREAL-SETUP-0.10.6.EXE,Prefetch evidence indicates the Ethereal installer was launched.,Path shown in Desktop; count 1.
+2004-08-27 20:34:54,Prefetch / Run Programs,ETHEREAL.EXE,Prefetch evidence indicates execution of Ethereal; count 1.,"This is direct execution evidence, not merely installation."
+2004-08-27 20:33:03,Prefetch / Run Programs,CAIN.EXE,Prefetch evidence indicates execution; count 2.,Chronologically place before Ethereal 20:34:54.
